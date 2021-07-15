@@ -1,0 +1,5 @@
+## Interface: 90100
+## Title: Friendly Nameplates Instanced
+## Author: Smino
+## Notes: Lightweight addon for friendly nameplates to hide healthbars, unstack, and be untargetable in instances.
+core.lua
